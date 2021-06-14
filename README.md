@@ -124,6 +124,9 @@ See the bottom of this README for a full script to import active release keys.
 Next, download the `SHASUMS256.txt.sig` for the release:
 
 ```console
+
+
+
 $ curl -O https://nodejs.org/dist/vx.y.z/SHASUMS256.txt.sig
 ```
 
